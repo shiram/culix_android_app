@@ -4,8 +4,14 @@ Android Product and Marketing management app.Demostrates simple crud, access rig
 
 ![Splash Screen](Culix/splash_screen.png) 
 
-![Splash Screen](Culix/products.png)
+![Home Screen](Culix/products.png)
 
-![Splash Screen](Culix/login_screen.png) 
+![Login Screen](Culix/login_screen.png) 
 
-![Splash Screen](Culix/register_screen.png)
+![Register Screen](Culix/register_screen.png)
+
+![Drawer Screen](Culix/side_menu.png)
+
+![About Us Screen](Culix/about_us.png)
+
+![Add Product Screen](Culix/add_product.png)
