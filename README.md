@@ -2,4 +2,6 @@
 Android Product and Marketing management app.Demostrates simple crud, access rights management using SharedPreferences. A mini school project.
 
 
-![Splash Screen](Culix/splash_screen.png)
+![Splash Screen](Culix/splash_screen.png) ![Splash Screen](Culix/products.png)
+
+![Splash Screen](Culix/login_screen.png) ![Splash Screen](Culix/register_screen.png)
