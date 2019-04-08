@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Culix">
+        <menu>
+            <item
+                android:id="@+id/nav_home"
+                android:title="Home" />
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_auth"
+                android:title="Account" />
+            <item
+                android:id="@+id/nav_profile"
+                android:title="Profile" />
+            <item
+                android:id="@+id/nav_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+    <item android:title="Products"
+        android:id="@+id/products">
+        <menu>
+            <item
+                android:id="@+id/nav_add_products"
+                android:title="Add Products" />
+            <item
+                android:id="@+id/nav_manage_products"
+                android:title="Manage Products" />
+        </menu>
+    </item>
+
+    <item android:title="Marketers"
+        android:id="@+id/marketers">
+        <menu>
+            <item
+                android:id="@+id/nav_add_marketers"
+                android:title="Add Marketers" />
+            <item
+                android:id="@+id/nav_manage_marketers"
+                android:title="Manage Marketers" />
+        </menu>
+    </item>
+
+</menu>

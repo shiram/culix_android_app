@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Culix</string>
+    <string name="splash_screen">Culix Marketing Agency</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login_header">Login to Culix Marketing System</string>
+    <string name="login_header2">Please Provide Details </string>
+    <string name="email_login">EMAIL</string>
+    <string name="password_login">PASSWORD</string>
+    <string name="login_button">LOG IN</string>
+    <string name="forgot_password">Forgot Your Password?</string>
+    <string name="request_register">Do not have an account?</string>
+    <string name="register_text">REGISTER</string>
+
+    <string name="registration_header">New Here?</string>
+    <string name="registration_header2">Please fill in Details to Join Culix</string>
+    <string name="firstname">FIRST NAME</string>
+    <string name="lastname">LAST NAME</string>\
+    <string name="password">PASSWORD</string>
+    <string name="password_confirm">CONFIRM PASSWORD</string>
+
+    <string name="password_reset_header">Reset Your Password Here.</string>
+    <string name="password_reset_header_2">Please provide your Email.</string>
+    <string name="password_reset_email">Provide Your Email</string>
+    <string name="reset_password">Reset Password</string>
+
+    <string name="add_product_header">Add Your Products Here</string>
+    <string name="item_name">Product Name</string>
+    <string name="item_price">Product Price(Shs)</string>
+    <string name="item_description">Product Description</string>
+    <string name="business_location">Business Location</string>
+    <string name="country">Country</string>
+    <string name="city">City/State/District</string>
+    <string name="address1">Address Line </string>
+    <string name="image">Item Image</string>
+    <string name="add_product">Add Product</string>
+    <string name="category_header">Select Product Category</string>
+    <string name="get_location">Get Location</string>
+
+
+    <string-array name="category_list">
+        <item>Hardware</item>
+        <item>Beverages</item>
+        <item>Fabrics</item>
+        <item>Pharmaceuticals</item>
+        <item>Cosmetics</item>
+        <item>Electronics</item>
+        <item>Edibles</item>
+    </string-array>
+
+    <string name="auth_email_err">Please provide a valid email.</string>
+    <string name="auth_password_err">Please provide a password.</string>
+    <string name="firstname_err">Please provide your firstname.</string>
+    <string name="lastname_err">Please provide your lastname.</string>
+    <string name="item_name_err">Please provide product name.</string>
+    <string name="item_price_err">Please provide product price in Uganda Shillings.</string>
+    <string name="item_description_err">Please provide a product description.</string>
+    <string name="country_err">Which Country is your business located.</string>
+    <string name="city_err">Which City/State/District is your business located.</string>
+    <string name="address_err">Provide an Address of your business.</string>
+    <string name="image_err">Provide a Product Image please.</string>
+
+    <string name="about_header">Welcome to Culix Gen</string>
+    <string name="about_header2">Marketing Agency</string>
+    <string name="about_us">The possibilities that digital affords the average person these days is mind-blowing, from sharing news, to e-commerce, education, business and more. The thing is – it also means that brands are no longer in charge of their own image- this power is now shared equally with the consumer.</string>
+    <string name="vision_header">Vision</string>
+    <string name="vision">To provide the best marketing services in Uganda.</string>
+    <string name="mission_header">Mission</string>
+    <string name="mission">To be the best Marketing Agency in Uganda.</string>
+    <string name="visit_website">Visit Website</string>
+
+    <string name="progress">Processing...</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="apply_here">Apply Now</string>
+    <string name="apply_text">Do You want to be a Marketer?</string>
+    <string name="apply_text2">Please Apply to get Marketer Rights.</string>
+
+    <string name="search_here">Search using category, name or price ...</string>
+</resources>
